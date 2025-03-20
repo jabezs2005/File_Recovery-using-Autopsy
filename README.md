@@ -132,8 +132,13 @@ The objective of this guide is to demonstrate how to:
 - Empty the **Recycle Bin**.  
 
 **Your virtual disk is completely removed!**  
- 
----
+# Output:
+![Screenshot 2025-03-20 134529](https://github.com/user-attachments/assets/71cd78ae-68f3-468d-8b9a-320d0884532c)
+
+## Recovered Images:
+
+![images](https://github.com/user-attachments/assets/93858197-d17b-495b-b35e-93387ef18eff)
+
  
 
 ## Result :
